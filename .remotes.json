@@ -10,5 +10,11 @@
     "url": "https://github.com/openvolley/datavolley",
     "via": ["volleysim"],
     "from": "volleysim"
+  },
+  {
+    "package": "minixml",
+    "url": "https://github.com/coolbutuseless/minixml",
+    "via": ["fivbvis"],
+    "from": "fivbvis"
   }
 ]

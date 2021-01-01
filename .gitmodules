@@ -23,3 +23,8 @@
 	url = https://github.com/openvolley/fivbvis
 	shallow = true
 	registered = true
+[submodule "minixml"]
+	path = minixml
+	url = https://github.com/coolbutuseless/minixml
+	shallow = true
+	registered = false
