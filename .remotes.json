@@ -188,6 +188,12 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
+    "via": ["volleyreport"],
+    "from": "volleyreport"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
     "via": ["volleysim"],
     "from": "volleysim"
   },
