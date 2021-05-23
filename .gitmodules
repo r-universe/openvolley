@@ -38,8 +38,33 @@
 	url = https://github.com/openvolley/fivbvis
 	shallow = true
 	registered = true
+[submodule "archive"]
+	path = archive
+	url = https://github.com/jimhester/archive
+	shallow = true
+	registered = false
+[submodule "editry"]
+	path = editry
+	url = https://github.com/scienceuntangled/editry
+	shallow = true
+	registered = false
+[submodule "glue"]
+	path = glue
+	url = https://github.com/tidyverse/glue
+	shallow = true
+	registered = false
 [submodule "minixml"]
 	path = minixml
 	url = https://github.com/coolbutuseless/minixml
+	shallow = true
+	registered = false
+[submodule "noder"]
+	path = noder
+	url = https://github.com/scienceuntangled/noder
+	shallow = true
+	registered = false
+[submodule "ovdata"]
+	path = ovdata
+	url = https://github.com/openvolley/ovdata
 	shallow = true
 	registered = false

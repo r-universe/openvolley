@@ -1,5 +1,41 @@
 [
   {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovideo"],
+    "from": "ovideo"
+  },
+  {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovideo", "editry", "noder"],
+    "from": "ovideo"
+  },
+  {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovideo", "editry"],
+    "from": "ovideo"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovideo"],
+    "from": "ovideo"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovideo", "ovdata"],
+    "from": "ovideo"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovideo", "ovdata", "peranavolley"],
+    "from": "ovideo"
+  },
+  {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
     "via": ["peranavolley"],
@@ -12,9 +48,51 @@
     "from": "volleysim"
   },
   {
+    "package": "editry",
+    "url": "https://github.com/scienceuntangled/editry",
+    "via": ["ovideo"],
+    "from": "ovideo"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovideo", "archive"],
+    "from": "ovideo"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovideo", "editry", "noder", "archive"],
+    "from": "ovideo"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovideo", "editry", "archive"],
+    "from": "ovideo"
+  },
+  {
     "package": "minixml",
     "url": "https://github.com/coolbutuseless/minixml",
     "via": ["fivbvis"],
     "from": "fivbvis"
+  },
+  {
+    "package": "noder",
+    "url": "https://github.com/scienceuntangled/noder",
+    "via": ["ovideo", "editry"],
+    "from": "ovideo"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovideo"],
+    "from": "ovideo"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovideo", "ovdata"],
+    "from": "ovideo"
   }
 ]
