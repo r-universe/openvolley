@@ -13,3 +13,13 @@
 	url = https://github.com/openvolley/peranavolley
 	shallow = true
 	registered = true
+[submodule "volleysim"]
+	path = volleysim
+	url = https://github.com/openvolley/volleysim
+	shallow = true
+	registered = true
+[submodule "fivbvis"]
+	path = fivbvis
+	url = https://github.com/openvolley/fivbvis
+	shallow = true
+	registered = true

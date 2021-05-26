@@ -4,5 +4,11 @@
   },
   {
     "package": "peranavolley"
+  },
+  {
+    "package": "volleysim"
+  },
+  {
+    "package": "fivbvis"
   }
 ]
