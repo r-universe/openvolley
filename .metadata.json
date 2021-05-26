@@ -9,6 +9,15 @@
     "package": "volleysim"
   },
   {
+    "package": "ovideo"
+  },
+  {
+    "package": "ovplayer"
+  },
+  {
+    "package": "ovlytics"
+  },
+  {
     "package": "fivbvis"
   }
 ]

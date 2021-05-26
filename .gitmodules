@@ -18,6 +18,21 @@
 	url = https://github.com/openvolley/volleysim
 	shallow = true
 	registered = true
+[submodule "ovideo"]
+	path = ovideo
+	url = https://github.com/openvolley/ovideo
+	shallow = true
+	registered = true
+[submodule "ovplayer"]
+	path = ovplayer
+	url = https://github.com/openvolley/ovplayer
+	shallow = true
+	registered = true
+[submodule "ovlytics"]
+	path = ovlytics
+	url = https://github.com/openvolley/ovlytics
+	shallow = true
+	registered = true
 [submodule "fivbvis"]
 	path = fivbvis
 	url = https://github.com/openvolley/fivbvis
