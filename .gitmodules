@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/openvolley/universe
 	shallow = true
 	branch = HEAD
+[submodule "datavolley"]
+	path = datavolley
+	url = https://github.com/openvolley/datavolley
+	shallow = true
+	registered = true
+[submodule "peranavolley"]
+	path = peranavolley
+	url = https://github.com/openvolley/peranavolley
+	shallow = true
+	registered = true
