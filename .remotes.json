@@ -36,6 +36,24 @@
     "from": "ovplayer"
   },
   {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovva", "ovideo"],
+    "from": "ovva"
+  },
+  {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovva", "ovideo", "editry", "noder"],
+    "from": "ovva"
+  },
+  {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["ovva", "ovideo", "editry"],
+    "from": "ovva"
+  },
+  {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
     "via": ["auvolley"],
@@ -134,6 +152,36 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovva"],
+    "from": "ovva"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovva", "ovideo"],
+    "from": "ovva"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovva", "ovideo", "ovdata"],
+    "from": "ovva"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovva", "ovideo", "ovdata", "peranavolley"],
+    "from": "ovva"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovva", "peranavolley"],
+    "from": "ovva"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
     "via": ["peranavolley"],
     "from": "peranavolley"
   },
@@ -154,6 +202,12 @@
     "url": "https://github.com/scienceuntangled/editry",
     "via": ["ovplayer", "ovideo"],
     "from": "ovplayer"
+  },
+  {
+    "package": "editry",
+    "url": "https://github.com/scienceuntangled/editry",
+    "via": ["ovva", "ovideo"],
+    "from": "ovva"
   },
   {
     "package": "glue",
@@ -192,6 +246,24 @@
     "from": "ovplayer"
   },
   {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovva", "ovideo", "archive"],
+    "from": "ovva"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovva", "ovideo", "editry", "noder", "archive"],
+    "from": "ovva"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["ovva", "ovideo", "editry", "archive"],
+    "from": "ovva"
+  },
+  {
     "package": "minixml",
     "url": "https://github.com/coolbutuseless/minixml",
     "via": ["fivbvis"],
@@ -208,6 +280,12 @@
     "url": "https://github.com/scienceuntangled/noder",
     "via": ["ovplayer", "ovideo", "editry"],
     "from": "ovplayer"
+  },
+  {
+    "package": "noder",
+    "url": "https://github.com/scienceuntangled/noder",
+    "via": ["ovva", "ovideo", "editry"],
+    "from": "ovva"
   },
   {
     "package": "ovdata",
@@ -234,10 +312,22 @@
     "from": "ovplayer"
   },
   {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovva", "ovideo"],
+    "from": "ovva"
+  },
+  {
     "package": "ovideo",
     "url": "https://github.com/openvolley/ovideo",
     "via": ["ovplayer"],
     "from": "ovplayer"
+  },
+  {
+    "package": "ovideo",
+    "url": "https://github.com/openvolley/ovideo",
+    "via": ["ovva"],
+    "from": "ovva"
   },
   {
     "package": "ovlytics",
@@ -274,5 +364,17 @@
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovplayer", "ovideo", "ovdata"],
     "from": "ovplayer"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovva", "ovideo", "ovdata"],
+    "from": "ovva"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovva"],
+    "from": "ovva"
   }
 ]
