@@ -38,6 +38,30 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
+    "via": ["auvolley"],
+    "from": "auvolley"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["auvolley", "ovlytics"],
+    "from": "auvolley"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["auvolley", "ovlytics", "ovdata"],
+    "from": "auvolley"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["auvolley", "ovlytics", "ovdata", "peranavolley"],
+    "from": "auvolley"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
     "via": ["ovideo"],
     "from": "ovideo"
   },
@@ -176,6 +200,12 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
+    "via": ["auvolley", "ovlytics"],
+    "from": "auvolley"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
     "via": ["ovideo"],
     "from": "ovideo"
   },
@@ -196,6 +226,18 @@
     "url": "https://github.com/openvolley/ovideo",
     "via": ["ovplayer"],
     "from": "ovplayer"
+  },
+  {
+    "package": "ovlytics",
+    "url": "https://github.com/openvolley/ovlytics",
+    "via": ["auvolley"],
+    "from": "auvolley"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["auvolley", "ovlytics", "ovdata"],
+    "from": "auvolley"
   },
   {
     "package": "peranavolley",
