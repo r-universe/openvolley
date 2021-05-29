@@ -18,6 +18,9 @@
     "package": "ovlytics"
   },
   {
+    "package": "ovml"
+  },
+  {
     "package": "ovplayer"
   },
   {
@@ -25,6 +28,9 @@
   },
   {
     "package": "peranavolley"
+  },
+  {
+    "package": "volleyreport"
   },
   {
     "package": "volleysim"

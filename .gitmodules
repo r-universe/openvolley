@@ -33,6 +33,11 @@
 	url = https://github.com/openvolley/ovlytics
 	shallow = true
 	registered = true
+[submodule "ovml"]
+	path = ovml
+	url = https://github.com/openvolley/ovml
+	shallow = true
+	registered = true
 [submodule "ovplayer"]
 	path = ovplayer
 	url = https://github.com/openvolley/ovplayer
@@ -46,6 +51,11 @@
 [submodule "peranavolley"]
 	path = peranavolley
 	url = https://github.com/openvolley/peranavolley
+	shallow = true
+	registered = true
+[submodule "volleyreport"]
+	path = volleyreport
+	url = https://github.com/openvolley/volleyreport
 	shallow = true
 	registered = true
 [submodule "volleysim"]
