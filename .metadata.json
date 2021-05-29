@@ -1,23 +1,32 @@
 [
   {
+    "package": "auvolley"
+  },
+  {
     "package": "datavolley"
+  },
+  {
+    "package": "fivbvis"
+  },
+  {
+    "package": "ovdata"
+  },
+  {
+    "package": "ovideo"
+  },
+  {
+    "package": "ovlytics"
+  },
+  {
+    "package": "ovplayer"
+  },
+  {
+    "package": "ovva"
   },
   {
     "package": "peranavolley"
   },
   {
     "package": "volleysim"
-  },
-  {
-    "package": "ovideo"
-  },
-  {
-    "package": "ovplayer"
-  },
-  {
-    "package": "ovlytics"
-  },
-  {
-    "package": "fivbvis"
   }
 ]
