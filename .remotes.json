@@ -218,24 +218,6 @@
   {
     "package": "glue",
     "url": "https://github.com/tidyverse/glue",
-    "via": ["ovideo", "archive"],
-    "from": "ovideo"
-  },
-  {
-    "package": "glue",
-    "url": "https://github.com/tidyverse/glue",
-    "via": ["ovideo", "editry", "noder", "archive"],
-    "from": "ovideo"
-  },
-  {
-    "package": "glue",
-    "url": "https://github.com/tidyverse/glue",
-    "via": ["ovideo", "editry", "archive"],
-    "from": "ovideo"
-  },
-  {
-    "package": "glue",
-    "url": "https://github.com/tidyverse/glue",
     "via": ["ovplayer", "ovideo", "archive"],
     "from": "ovplayer"
   },
