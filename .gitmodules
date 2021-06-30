@@ -38,6 +38,11 @@
 	url = https://github.com/openvolley/ovml
 	shallow = true
 	registered = true
+[submodule "ovpaged"]
+	path = ovpaged
+	url = https://github.com/openvolley/ovpaged
+	shallow = true
+	registered = true
 [submodule "ovplayer"]
 	path = ovplayer
 	url = https://github.com/openvolley/ovplayer
