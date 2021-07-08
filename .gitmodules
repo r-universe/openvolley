@@ -68,19 +68,9 @@
 	url = https://github.com/openvolley/volleysim
 	shallow = true
 	registered = true
-[submodule "archive"]
-	path = archive
-	url = https://github.com/jimhester/archive
-	shallow = true
-	registered = false
 [submodule "editry"]
 	path = editry
 	url = https://github.com/scienceuntangled/editry
-	shallow = true
-	registered = false
-[submodule "glue"]
-	path = glue
-	url = https://github.com/tidyverse/glue
 	shallow = true
 	registered = false
 [submodule "minixml"]
