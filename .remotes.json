@@ -2,24 +2,6 @@
   {
     "package": "archive",
     "url": "https://github.com/jimhester/archive",
-    "via": ["ovplayer", "ovideo"],
-    "from": "ovplayer"
-  },
-  {
-    "package": "archive",
-    "url": "https://github.com/jimhester/archive",
-    "via": ["ovplayer", "ovideo", "editry", "noder"],
-    "from": "ovplayer"
-  },
-  {
-    "package": "archive",
-    "url": "https://github.com/jimhester/archive",
-    "via": ["ovplayer", "ovideo", "editry"],
-    "from": "ovplayer"
-  },
-  {
-    "package": "archive",
-    "url": "https://github.com/jimhester/archive",
     "via": ["ovva", "ovideo"],
     "from": "ovva"
   },
