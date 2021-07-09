@@ -48,6 +48,11 @@
 	url = https://github.com/openvolley/ovplayer
 	shallow = true
 	registered = true
+[submodule "ovscout"]
+	path = ovscout
+	url = https://github.com/openvolley/ovscout
+	shallow = true
+	registered = true
 [submodule "ovva"]
 	path = ovva
 	url = https://github.com/openvolley/ovva
