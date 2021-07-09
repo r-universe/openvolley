@@ -98,6 +98,30 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout"],
+    "from": "ovscout"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout", "ovideo"],
+    "from": "ovscout"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout", "ovideo", "ovdata"],
+    "from": "ovscout"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout", "ovideo", "ovdata", "peranavolley"],
+    "from": "ovscout"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
     "via": ["ovva"],
     "from": "ovva"
   },
@@ -158,6 +182,12 @@
   {
     "package": "editry",
     "url": "https://github.com/scienceuntangled/editry",
+    "via": ["ovscout", "ovideo"],
+    "from": "ovscout"
+  },
+  {
+    "package": "editry",
+    "url": "https://github.com/scienceuntangled/editry",
     "via": ["ovva", "ovideo"],
     "from": "ovva"
   },
@@ -178,6 +208,12 @@
     "url": "https://github.com/scienceuntangled/noder",
     "via": ["ovplayer", "ovideo", "editry"],
     "from": "ovplayer"
+  },
+  {
+    "package": "noder",
+    "url": "https://github.com/scienceuntangled/noder",
+    "via": ["ovscout", "ovideo", "editry"],
+    "from": "ovscout"
   },
   {
     "package": "noder",
@@ -212,6 +248,12 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovscout", "ovideo"],
+    "from": "ovscout"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
     "via": ["ovva", "ovideo"],
     "from": "ovva"
   },
@@ -220,6 +262,12 @@
     "url": "https://github.com/openvolley/ovideo",
     "via": ["ovplayer"],
     "from": "ovplayer"
+  },
+  {
+    "package": "ovideo",
+    "url": "https://github.com/openvolley/ovideo",
+    "via": ["ovscout"],
+    "from": "ovscout"
   },
   {
     "package": "ovideo",
@@ -262,6 +310,12 @@
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovplayer", "ovideo", "ovdata"],
     "from": "ovplayer"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovscout", "ovideo", "ovdata"],
+    "from": "ovscout"
   },
   {
     "package": "peranavolley",
