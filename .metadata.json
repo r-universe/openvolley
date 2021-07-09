@@ -37,5 +37,8 @@
   },
   {
     "package": "volleysim"
+  },
+  {
+    "package": "volleyxml"
   }
 ]
