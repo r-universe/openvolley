@@ -282,6 +282,12 @@
     "from": "auvolley"
   },
   {
+    "package": "ovpaged",
+    "url": "https://github.com/openvolley/ovpaged",
+    "via": ["volleyreport"],
+    "from": "volleyreport"
+  },
+  {
     "package": "peranavolley",
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["auvolley", "ovlytics", "ovdata"],
