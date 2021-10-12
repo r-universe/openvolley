@@ -3,34 +3,9 @@
 	url = https://github.com/openvolley/universe
 	shallow = true
 	branch = HEAD
-[submodule "auvolley"]
-	path = auvolley
-	url = https://github.com/openvolley/auvolley
-	shallow = true
-	registered = true
 [submodule "datavolley"]
 	path = datavolley
 	url = https://github.com/openvolley/datavolley
-	shallow = true
-	registered = true
-[submodule "fivbvis"]
-	path = fivbvis
-	url = https://github.com/openvolley/fivbvis
-	shallow = true
-	registered = true
-[submodule "ovdata"]
-	path = ovdata
-	url = https://github.com/openvolley/ovdata
-	shallow = true
-	registered = true
-[submodule "ovideo"]
-	path = ovideo
-	url = https://github.com/openvolley/ovideo
-	shallow = true
-	registered = true
-[submodule "ovlytics"]
-	path = ovlytics
-	url = https://github.com/openvolley/ovlytics
 	shallow = true
 	registered = true
 [submodule "ovml"]
@@ -41,36 +16,6 @@
 [submodule "ovpaged"]
 	path = ovpaged
 	url = https://github.com/openvolley/ovpaged
-	shallow = true
-	registered = true
-[submodule "ovplayer"]
-	path = ovplayer
-	url = https://github.com/openvolley/ovplayer
-	shallow = true
-	registered = true
-[submodule "ovscout"]
-	path = ovscout
-	url = https://github.com/openvolley/ovscout
-	shallow = true
-	registered = true
-[submodule "ovva"]
-	path = ovva
-	url = https://github.com/openvolley/ovva
-	shallow = true
-	registered = true
-[submodule "peranavolley"]
-	path = peranavolley
-	url = https://github.com/openvolley/peranavolley
-	shallow = true
-	registered = true
-[submodule "volleyreport"]
-	path = volleyreport
-	url = https://github.com/openvolley/volleyreport
-	shallow = true
-	registered = true
-[submodule "volleysim"]
-	path = volleysim
-	url = https://github.com/openvolley/volleysim
 	shallow = true
 	registered = true
 [submodule "volleyxml"]
