@@ -93,3 +93,8 @@
 	url = https://github.com/scienceuntangled/noder
 	shallow = true
 	registered = false
+[submodule "ovml.common"]
+	path = ovml.common
+	url = https://github.com/openvolley/ovml.common
+	shallow = true
+	registered = false

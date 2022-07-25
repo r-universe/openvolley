@@ -324,6 +324,12 @@
     "from": "auvolley"
   },
   {
+    "package": "ovml.common",
+    "url": "https://github.com/openvolley/ovml.common",
+    "via": ["ovml"],
+    "from": "ovml"
+  },
+  {
     "package": "ovpaged",
     "url": "https://github.com/openvolley/ovpaged",
     "via": ["volleyreport"],
