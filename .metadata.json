@@ -21,6 +21,12 @@
     "package": "ovml"
   },
   {
+    "package": "ovml.common"
+  },
+  {
+    "package": "ovmlpy"
+  },
+  {
     "package": "ovpaged"
   },
   {
