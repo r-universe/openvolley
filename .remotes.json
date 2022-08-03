@@ -330,6 +330,12 @@
     "from": "ovml"
   },
   {
+    "package": "ovml.common",
+    "url": "https://github.com/openvolley/ovml.common",
+    "via": ["ovmlpy"],
+    "from": "ovmlpy"
+  },
+  {
     "package": "ovpaged",
     "url": "https://github.com/openvolley/ovpaged",
     "via": ["volleyreport"],
