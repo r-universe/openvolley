@@ -63,6 +63,11 @@
 	url = https://github.com/openvolley/ovscout
 	shallow = true
 	registered = true
+[submodule "ovscout2"]
+	path = ovscout2
+	url = https://github.com/openvolley/ovscout2
+	shallow = true
+	registered = true
 [submodule "ovva"]
 	path = ovva
 	url = https://github.com/openvolley/ovva
