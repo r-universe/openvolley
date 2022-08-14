@@ -140,6 +140,54 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "ovdata"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "ovdata", "peranavolley"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "ovideo"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "ovideo", "ovdata"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "ovideo", "ovdata", "peranavolley"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "peranavolley"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["ovscout2", "volleyreport"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
     "via": ["ovva"],
     "from": "ovva"
   },
@@ -212,6 +260,12 @@
   {
     "package": "editry",
     "url": "https://github.com/scienceuntangled/editry",
+    "via": ["ovscout2", "ovideo"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "editry",
+    "url": "https://github.com/scienceuntangled/editry",
     "via": ["ovva", "ovideo"],
     "from": "ovva"
   },
@@ -244,6 +298,12 @@
     "url": "https://github.com/scienceuntangled/noder",
     "via": ["ovscout", "ovideo", "editry"],
     "from": "ovscout"
+  },
+  {
+    "package": "noder",
+    "url": "https://github.com/scienceuntangled/noder",
+    "via": ["ovscout2", "ovideo", "editry"],
+    "from": "ovscout2"
   },
   {
     "package": "noder",
@@ -290,6 +350,18 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovscout2"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovscout2", "ovideo"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
     "via": ["ovva", "ovideo"],
     "from": "ovva"
   },
@@ -314,6 +386,12 @@
   {
     "package": "ovideo",
     "url": "https://github.com/openvolley/ovideo",
+    "via": ["ovscout2"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "ovideo",
+    "url": "https://github.com/openvolley/ovideo",
     "via": ["ovva"],
     "from": "ovva"
   },
@@ -334,6 +412,12 @@
     "url": "https://github.com/openvolley/ovml.common",
     "via": ["ovmlpy"],
     "from": "ovmlpy"
+  },
+  {
+    "package": "ovpaged",
+    "url": "https://github.com/openvolley/ovpaged",
+    "via": ["ovscout2", "volleyreport"],
+    "from": "ovscout2"
   },
   {
     "package": "ovpaged",
@@ -386,6 +470,24 @@
   {
     "package": "peranavolley",
     "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovscout2", "ovdata"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovscout2", "ovideo", "ovdata"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovscout2"],
+    "from": "ovscout2"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovva", "ovideo", "ovdata"],
     "from": "ovva"
   },
@@ -394,5 +496,11 @@
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovva"],
     "from": "ovva"
+  },
+  {
+    "package": "volleyreport",
+    "url": "https://github.com/openvolley/volleyreport",
+    "via": ["ovscout2"],
+    "from": "ovscout2"
   }
 ]
