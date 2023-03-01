@@ -93,6 +93,11 @@
 	url = https://github.com/openvolley/volleyxml
 	shallow = true
 	registered = true
+[submodule "vscoututils"]
+	path = vscoututils
+	url = https://github.com/openvolley/vscoututils
+	shallow = true
+	registered = true
 [submodule "editry"]
 	path = editry
 	url = https://github.com/scienceuntangled/editry
