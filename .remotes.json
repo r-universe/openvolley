@@ -502,5 +502,11 @@
     "url": "https://github.com/openvolley/volleyreport",
     "via": ["ovscout2"],
     "from": "ovscout2"
+  },
+  {
+    "package": "vscoututils",
+    "url": "https://github.com/openvolley/vscoututils",
+    "via": ["datavolley"],
+    "from": "datavolley"
   }
 ]
