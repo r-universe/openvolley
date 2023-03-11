@@ -234,6 +234,18 @@
     "from": "volleysim"
   },
   {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["vscoututils", "ovdata"],
+    "from": "vscoututils"
+  },
+  {
+    "package": "datavolley",
+    "url": "https://github.com/openvolley/datavolley",
+    "via": ["vscoututils", "ovdata", "peranavolley"],
+    "from": "vscoututils"
+  },
+  {
     "package": "editry",
     "url": "https://github.com/scienceuntangled/editry",
     "via": ["ovideo"],
@@ -366,6 +378,12 @@
     "from": "ovva"
   },
   {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
+    "via": ["vscoututils"],
+    "from": "vscoututils"
+  },
+  {
     "package": "ovideo",
     "url": "https://github.com/openvolley/ovideo",
     "via": ["ovml"],
@@ -496,6 +514,12 @@
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovva"],
     "from": "ovva"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["vscoututils", "ovdata"],
+    "from": "vscoututils"
   },
   {
     "package": "volleyreport",
