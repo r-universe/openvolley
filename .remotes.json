@@ -368,6 +368,12 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
+    "via": ["ovlytics", "datavolley", "vscoututils"],
+    "from": "ovlytics"
+  },
+  {
+    "package": "ovdata",
+    "url": "https://github.com/openvolley/ovdata",
     "via": ["ovlytics"],
     "from": "ovlytics"
   },
@@ -556,6 +562,12 @@
     "url": "https://github.com/openvolley/peranavolley",
     "via": ["ovideo", "ovdata"],
     "from": "ovideo"
+  },
+  {
+    "package": "peranavolley",
+    "url": "https://github.com/openvolley/peranavolley",
+    "via": ["ovlytics", "datavolley", "vscoututils", "ovdata"],
+    "from": "ovlytics"
   },
   {
     "package": "peranavolley",
