@@ -216,12 +216,6 @@
     "from": "vscoututils"
   },
   {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["vscoututils", "ovdata", "peranavolley"],
-    "from": "vscoututils"
-  },
-  {
     "package": "editry",
     "url": "https://github.com/scienceuntangled/editry",
     "via": ["ovideo"],
