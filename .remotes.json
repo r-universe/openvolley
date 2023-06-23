@@ -188,24 +188,6 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
-    "via": ["volleyreport", "ovlytics"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["volleyreport", "ovlytics", "ovdata"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["volleyreport", "ovlytics", "ovdata", "peranavolley"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
     "via": ["volleysim"],
     "from": "volleysim"
   },
@@ -398,18 +380,6 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
-    "via": ["volleyreport", "ovlytics", "datavolley", "vscoututils"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "ovdata",
-    "url": "https://github.com/openvolley/ovdata",
-    "via": ["volleyreport", "ovlytics"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "ovdata",
-    "url": "https://github.com/openvolley/ovdata",
     "via": ["vscoututils"],
     "from": "vscoututils"
   },
@@ -596,18 +566,6 @@
   {
     "package": "peranavolley",
     "url": "https://github.com/openvolley/peranavolley",
-    "via": ["volleyreport", "ovlytics", "datavolley", "vscoututils", "ovdata"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "peranavolley",
-    "url": "https://github.com/openvolley/peranavolley",
-    "via": ["volleyreport", "ovlytics", "ovdata"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "peranavolley",
-    "url": "https://github.com/openvolley/peranavolley",
     "via": ["vscoututils", "ovdata"],
     "from": "vscoututils"
   },
@@ -735,24 +693,6 @@
     "package": "vscoututils",
     "url": "https://github.com/openvolley/vscoututils",
     "via": ["volleyreport", "datavolley"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["volleyreport", "ovlytics", "datavolley"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["volleyreport", "ovlytics", "ovdata", "datavolley"],
-    "from": "volleyreport"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["volleyreport", "ovlytics", "ovdata", "peranavolley", "datavolley"],
     "from": "volleyreport"
   }
 ]
