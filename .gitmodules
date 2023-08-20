@@ -8,9 +8,21 @@
 [submodule "datavolley"]
 	path = datavolley
 	url = https://github.com/openvolley/datavolley
+[submodule "editry"]
+	path = editry
+	url = https://github.com/scienceuntangled/editry
+	registered = false
 [submodule "fivbvis"]
 	path = fivbvis
 	url = https://github.com/openvolley/fivbvis
+[submodule "minixml"]
+	path = minixml
+	url = https://github.com/coolbutuseless/minixml
+	registered = false
+[submodule "noder"]
+	path = noder
+	url = https://github.com/scienceuntangled/noder
+	registered = false
 [submodule "ovdata"]
 	path = ovdata
 	url = https://github.com/openvolley/ovdata
@@ -59,15 +71,3 @@
 [submodule "vscoututils"]
 	path = vscoututils
 	url = https://github.com/openvolley/vscoututils
-[submodule "editry"]
-	path = editry
-	url = https://github.com/scienceuntangled/editry
-	registered = false
-[submodule "minixml"]
-	path = minixml
-	url = https://github.com/coolbutuseless/minixml
-	registered = false
-[submodule "noder"]
-	path = noder
-	url = https://github.com/scienceuntangled/noder
-	registered = false
