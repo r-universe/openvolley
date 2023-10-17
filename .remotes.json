@@ -128,30 +128,6 @@
   {
     "package": "datavolley",
     "url": "https://github.com/openvolley/datavolley",
-    "via": ["ovva", "ovideo"],
-    "from": "ovva"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["ovva", "ovideo", "ovdata"],
-    "from": "ovva"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["ovva", "ovideo", "ovdata", "peranavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
-    "via": ["ovva", "peranavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "datavolley",
-    "url": "https://github.com/openvolley/datavolley",
     "via": ["peranavolley"],
     "from": "peranavolley"
   },
@@ -320,24 +296,6 @@
   {
     "package": "ovdata",
     "url": "https://github.com/openvolley/ovdata",
-    "via": ["ovva", "ovideo", "datavolley", "vscoututils"],
-    "from": "ovva"
-  },
-  {
-    "package": "ovdata",
-    "url": "https://github.com/openvolley/ovdata",
-    "via": ["ovva", "ovideo"],
-    "from": "ovva"
-  },
-  {
-    "package": "ovdata",
-    "url": "https://github.com/openvolley/ovdata",
-    "via": ["ovva", "peranavolley", "datavolley", "vscoututils"],
-    "from": "ovva"
-  },
-  {
-    "package": "ovdata",
-    "url": "https://github.com/openvolley/ovdata",
     "via": ["volleyreport", "datavolley", "vscoututils"],
     "from": "volleyreport"
   },
@@ -500,24 +458,6 @@
   {
     "package": "peranavolley",
     "url": "https://github.com/openvolley/peranavolley",
-    "via": ["ovva", "ovideo", "datavolley", "vscoututils", "ovdata"],
-    "from": "ovva"
-  },
-  {
-    "package": "peranavolley",
-    "url": "https://github.com/openvolley/peranavolley",
-    "via": ["ovva", "ovideo", "ovdata"],
-    "from": "ovva"
-  },
-  {
-    "package": "peranavolley",
-    "url": "https://github.com/openvolley/peranavolley",
-    "via": ["ovva"],
-    "from": "ovva"
-  },
-  {
-    "package": "peranavolley",
-    "url": "https://github.com/openvolley/peranavolley",
     "via": ["volleyreport", "datavolley", "vscoututils", "ovdata"],
     "from": "volleyreport"
   },
@@ -603,30 +543,6 @@
     "package": "vscoututils",
     "url": "https://github.com/openvolley/vscoututils",
     "via": ["ovva", "datavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["ovva", "ovideo", "datavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["ovva", "ovideo", "ovdata", "datavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["ovva", "ovideo", "ovdata", "peranavolley", "datavolley"],
-    "from": "ovva"
-  },
-  {
-    "package": "vscoututils",
-    "url": "https://github.com/openvolley/vscoututils",
-    "via": ["ovva", "peranavolley", "datavolley"],
     "from": "ovva"
   },
   {
