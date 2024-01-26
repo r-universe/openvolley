@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/openvolley/universe
+	url = https://github.com/openvolley/openvolley.r-universe.dev
 	branch = HEAD
 [submodule "auvolley"]
 	path = auvolley
